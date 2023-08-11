@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(237, 246, 249);
+}
+
+    .text1 {
+	position:absolute;
+	top:36%;
+	left:5%;
+	width:24%;
+	height:15%;
+	text-align:center;
+}
+
+.b1{
+	position:absolute;
+	top:12%;
+	left:32%;
+	width:24%;
+	height:15%;	
+    text-align:center;
+}
+.b2{
+	position:absolute;
+	top:12%;
+	left:62%;
+	width:24%;
+	height:15%;
+	text-align:center;
+}
+
+.b3{
+	position:absolute;
+	top:62%;
+	left:32%;
+	width:24%;
+	height:15%;
+	text-align:center;
+}
+
+.b4{
+	position:absolute;
+	top:62%;
+	left:62%;
+	width:24%;
+	height:15%;
+	text-align:center;
+	}
+.img {
+    width: 50%;
+    margin:auto;
+}
